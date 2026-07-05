@@ -1,16 +1,13 @@
-## Hi there 👋
+# Speak2PC Legal Documents
 
-<!--
-**speak2pc/Speak2PC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository hosts the official legal documents for the Speak2PC Android application.
 
-Here are some ideas to get you started:
+## Documents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Privacy Policy
+- Terms & Conditions
+
+These documents are published via GitHub Pages for use in the Google Play Store listing.
+
+Developer: Aayesha Pathan
+Contact: help.speak2pc@gmail.com
